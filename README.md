@@ -22,9 +22,9 @@ Explorer une image comme une **donnée interactive** : zoom, drag, mapping coule
 - Exploration visuelle d’une donnée (image)
 
 ## ✨ Fonctionnalités
-- ✅ Image Masha 
-- ✅ Arrière‑plan arc‑en‑ciel **dans l’image**
-- ✅ Zoom + / – (boutons + molette)
-- ✅ Déplacement quand zoomée
+-  Image Masha 
+-  Arrière‑plan arc‑en‑ciel **dans l’image**
+-  Zoom + / – (boutons + molette)
+- Déplacement quand zoomée
 
 
