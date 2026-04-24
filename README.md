@@ -1,7 +1,5 @@
 # Masha-Canvas-Explorer-Visualisation-interactive
 
-# 🧠 Masha Canvas Explorer
-
 **Data Science + Data Analyst portfolio project**
 
 ##  Objectif
