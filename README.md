@@ -4,7 +4,7 @@
 
 <img
   alt="Data Analytics Dashboard"
-  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Masha-Canvas-Explorer-Visualisation-interactive/main/chrome_XzwgqcQaKq.gif"
+  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Masha-Canvas-Explorer-Visualisation-interactive/main/chrome_XzwgqcQaKq.mp4"
   style="
     width: 100%;
     height: auto;
