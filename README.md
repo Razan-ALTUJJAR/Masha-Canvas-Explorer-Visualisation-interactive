@@ -2,6 +2,16 @@
 
 **Data Science + Data Analyst portfolio project**
 
+<img
+  alt="Data Analytics Dashboard"
+  src="https://raw.githubusercontent.com/Razan-ALTUJJAR/Masha-Canvas-Explorer-Visualisation-interactive/main/JQG8.gif"
+  style="
+    width: 100%;
+    height: auto;
+    display: block;
+  "
+/>
+
 ##  Objectif
 Explorer une image comme une **donnée interactive** : zoom, drag, mapping couleur (rainbow), rendu temps réel.
 
